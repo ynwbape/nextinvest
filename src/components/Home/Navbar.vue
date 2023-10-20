@@ -110,6 +110,10 @@
         text-decoration: none;
     }
 
+    .loginBtn, .registerBtn {
+        overflow: hidden;
+    }
+
     .loginBtn:visited, .registerBtn:visited {
         text-decoration: none;
     }
